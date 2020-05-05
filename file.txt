@@ -1,4 +1,0 @@
-Line 1
-Line searchphrase time taken
-Line 22
-Line searchphrase time taken

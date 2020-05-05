@@ -3,10 +3,9 @@
 # Lewis Sharpe
 # Date: 04/05/20
 # -----------------------------------------------------------------------------------------------------------------------------
-with open('LOG', 'r') as searchfile:
-    for line in searchfile:
-        if 'Time taken for core(s) number' in line:
-            print line
-with open('str_patmatch_output.txt', 'a') as the_file:
-    the_file.write(line)
+with open('LOG3', 'r') as f:
+  with open("output.txt", "w") as f1:
+    for line in f:
+        if 'Time taken for core number' in line:
+		f1.write(line)
 # -----------------------------------------------------------------------------------------------------------------------------

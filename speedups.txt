@@ -1,0 +1,83 @@
+Speed up achieved for core-number-1 from core-number-seq : 1.2
+Speed up achieved for core-number-2 from core-number-seq : 1.28571428571
+Speed up achieved for core-number-4 from core-number-seq : 1.28571428571
+Speed up achieved for core-number-8 from core-number-seq : 1.28571428571
+Speed up achieved for core-number-24 from core-number-seq : 1.28571428571
+Speed up achieved for core-number-32 from core-number-seq : 1.28571428571
+Speed up achieved for core-number-48 from core-number-seq : 1.28571428571
+Speed up achieved for core-number-64 from core-number-seq : 1.2
+Speed up achieved for core-number-2 from core-number-1 : 1.07142857143
+Speed up achieved for core-number-4 from core-number-1 : 1.07142857143
+Speed up achieved for core-number-8 from core-number-1 : 1.28571428571
+Speed up achieved for core-number-16 from core-number-1 : 1.0
+Speed up achieved for core-number-24 from core-number-1 : 1.07142857143
+Speed up achieved for core-number-32 from core-number-1 : 1.07142857143
+Speed up achieved for core-number-48 from core-number-1 : 1.07142857143
+Speed up achieved for core-number-64 from core-number-1 : 1.0
+
+core-number-64from core-number-seq : 1.2
+core-number-64from core-number-seq : 1.2
+core-number-64from core-number-seq : 1.2
+core-number-64from core-number-seq : 1.2
+core-number-64from core-number-seq : 1.2
+core-number-64from core-number-seq : 1.2
+core-number-48from core-number-seq : 1.28571428571
+core-number-48from core-number-1 : 1.07142857143
+core-number-48from core-number-1 : 1.07142857143
+core-number-16from core-number-1 : 1.0
+core-number-32from core-number-1 : 1.07142857143
+core-number-32from core-number-1 : 1.07142857143
+core-number-32from core-number-1 : 1.07142857143
+core-number-16from core-number-1 : 1.0
+core-number-2from core-number-1 : 1.07142857143
+core-number-4from core-number-1 : 1.07142857143
+core-number-8from core-number-1 : 1.28571428571
+core-number-16from core-number-1 : 1.0
+core-number-24from core-number-1 : 1.07142857143
+core-number-32from core-number-1 : 1.07142857143
+core-number-48from core-number-1 : 1.07142857143
+core-number-64from core-number-1 : 1.0
+core-number-1from core-number-seq : 1.2
+core-number-2from core-number-seq : 1.28571428571
+core-number-4from core-number-seq : 1.28571428571
+core-number-8from core-number-seq : 1.28571428571
+core-number-16from core-number-seq : 1.2
+core-number-24from core-number-seq : 1.28571428571
+core-number-32from core-number-seq : 1.28571428571
+core-number-48from core-number-seq : 1.28571428571
+core-number-64from core-number-seq : 1.2
+core-number-64from core-number-1 : 1.0
+core-number-64from core-number-seq : 1.2
+core-number-2from core-number-1 : 1.07142857143
+core-number-4from core-number-1 : 1.07142857143
+core-number-8from core-number-1 : 1.28571428571
+core-number-16from core-number-1 : 1.0
+core-number-24from core-number-1 : 1.07142857143
+core-number-32from core-number-1 : 1.07142857143
+core-number-48from core-number-1 : 1.07142857143
+core-number-64from core-number-1 : 1.0
+core-number-2from core-number-1 : 1.07142857143
+core-number-4from core-number-1 : 1.07142857143
+core-number-8from core-number-1 : 1.28571428571
+core-number-16from core-number-1 : 1.0
+core-number-32from core-number-1 : 1.07142857143
+core-number-48from core-number-1 : 1.07142857143
+core-number-64from core-number-1 : 1.0
+core-number-1from core-number-seq : 1.2
+core-number-2from core-number-seq : 1.28571428571
+core-number-4from core-number-seq : 1.28571428571
+core-number-8from core-number-seq : 1.28571428571
+core-number-16from core-number-seq : 1.2
+core-number-24from core-number-seq : 1.28571428571
+core-number-32from core-number-seq : 1.28571428571
+core-number-48from core-number-seq : 1.28571428571
+core-number-64from core-number-seq : 1.2
+core-number-1from core-number-seq : 1.2
+core-number-2from core-number-seq : 1.28571428571
+core-number-4from core-number-seq : 1.28571428571
+core-number-8from core-number-seq : 1.28571428571
+core-number-16from core-number-seq : 1.2
+core-number-24from core-number-seq : 1.28571428571
+core-number-32from core-number-seq : 1.28571428571
+core-number-48from core-number-seq : 1.28571428571
+core-number-64from core-number-seq : 1.2
